@@ -1,4 +1,5 @@
-This is a simple HTML, CSS, and JavaScript code that allows a user to add paragraphs to a webpage.
+This is a simple HTML, CSS, and JavaScript code that allows a user to add paragraphs to a webpage
+
 hosted link :-https://rhushi1998.github.io/javaScript/homework9/
 
 Step-by-Step Explanation
