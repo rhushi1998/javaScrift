@@ -3,9 +3,10 @@ This is a simple HTML, CSS, and JavaScript code that allows a user to add paragr
 hosted link :-https://rhushi1998.github.io/javaScript/homework9/
 
 Step-by-Step Explanation
-HTML
-The HTML code creates a simple webpage with a text input, a button, and a div to hold the paragraphs.
 
+HTML
+
+The HTML code creates a simple webpage with a text input, a button, and a div to hold the paragraphs.
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -23,7 +24,9 @@ The HTML code creates a simple webpage with a text input, a button, and a div to
     <script src="index.js"></script>
 </body>
 </html>
+
 JavaScript
+
 The JavaScript code adds a new paragraph to the webpage when the "Add" button is clicked.
 
 const Button = document.getElementById('addButton');
