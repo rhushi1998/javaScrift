@@ -3,7 +3,7 @@
 
 This is a simple HTML, CSS, and JavaScript project that creates a circle that can change color and shape.
 
-Hosted Link:
+Hosted Link:https://rhushi1998.github.io/javaScript/assig10/
 
 ## HTML
 
