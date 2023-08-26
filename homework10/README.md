@@ -3,7 +3,7 @@
 
 This is a simple HTML and JavaScript code that changes the background color of the webpage when the button is clicked.
 
-Hosted Link : https://github.com/rhushi1998/javaScript/homework10/
+Hosted Link : https://rhushi1998.github.io/javaScript/homework10/
 ## Step-by-Step Explanation
 
 ### HTML Code
