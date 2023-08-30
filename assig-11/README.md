@@ -5,7 +5,7 @@ This is a simple HTML and JavaScript code that allows the user to enter a keywor
 
 
 # Hosted link:
-
+https://rhushi1998.github.io/javaScript/assig-11/
 
 ## Step 1: HTML Code
  <div id="app">
