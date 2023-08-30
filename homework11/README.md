@@ -3,7 +3,8 @@
 
 This is a simple HTML and JavaScript code that allows the user to Calculate Tip .
 
-#HOSTTED LINK:
+# HOSTTED LINK:
+https://rhushi1998.github.io/javaScript/homework11/
 
 ## Step 1: Create the HTML file
 <!DOCTYPE html>
