@@ -2,7 +2,7 @@
 
 This is a simple real-time character counter that counts the number of characters in a textarea and displays the total number of characters and the number of remaining characters.
 # Hosted Link
-
+https://rhushi1998.github.io/javaScript/RealTimeCharacterCount/
 ### Step-by-Step Explanation
 
 #### HTML

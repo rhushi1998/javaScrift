@@ -1,7 +1,7 @@
 # NotesWall
 NotesWall is a simple note taking app that allows users to create and save notes. 
 # Hosted Link:
-
+https://rhushi1998.github.io/javaScript/notesWall/
 ## Prerequisites
 
 To run NotesWall, you will need the following:
